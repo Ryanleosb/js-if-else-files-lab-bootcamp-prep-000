@@ -13,6 +13,6 @@ if (index.name === "Joe") {
   console.log("The name is correct")
 }
 
-if (index.height ==="Joe" {
+if (index.height ==="Joe") {
   console.log("The height is correct")
 }
